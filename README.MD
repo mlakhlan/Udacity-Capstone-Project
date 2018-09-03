@@ -18,7 +18,7 @@ This project requires **Python 3.6.3** and the following Python libraries instal
  -[xgboost] (https://pypi.org/project/xgboost/)
  
 
-We are using PTCharm . So , we need tri have Pycharm software installed and working .You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+We are using PTCharm . So , we need to haave Pycharm software installed and working .You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 We recommend students install [pip](https://pip.pypa.io/en/stable/reference/pip_install/#pip-install-options), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
